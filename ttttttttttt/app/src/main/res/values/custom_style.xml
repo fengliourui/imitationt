@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomBottomSheetStyle" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:background">@drawable/custom_background</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowBackground">@null</item>
+    </style>
+</resources>
